@@ -1,0 +1,1 @@
+This is the README for the folder 'Course 6 - Databases and SQL for Data Science with Python'.

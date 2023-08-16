@@ -1,0 +1,1 @@
+This is the README for the folder 'Course 8 - Data Visualization with Python'.

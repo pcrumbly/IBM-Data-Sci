@@ -1,0 +1,1 @@
+This is the README for the folder 'Course 10 - Applied Data Science Capstone'.

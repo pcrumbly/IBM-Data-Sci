@@ -22,12 +22,12 @@ The IBM Data Science Professional Certificate encompasses a series of meticulous
 ## Getting Started
 
 1. **Enrollment**: I've enrolled in the [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) on Coursera.
-2. **Repository Setup**: I've cloned this repository to my local machine, ensuring easy access to course materials and resources.
+2. **Repository Setup**
 3. **Course Progression**: As I progress through the courses on Coursera, I'll use the repository to test and archive.
 
 ## Certification
 
-Upon successfully completing all the courses in the IBM Data Science Professional Certificate, I'll proudly receive the official certificate from IBM and Coursera. This certificate will serve as a testament to my dedication and proficiency in the field of data science.
+Upon successfully completing all the courses in the IBM Data Science Professional Certificate, I'll receive the official certificate from IBM and Coursera. 
 
 ## Connect with Me
 
